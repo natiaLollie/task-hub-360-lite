@@ -52,7 +52,7 @@ Project Snapshot Coming Soon
 
 <br>
 
-<a href="https://natialollie.success-way.co/"><img src="https://github.com/natiaLollie/task-hub-360-lite/blob/main/docs/view-project-button.png?raw=true" width="30%"></a>
+<a href="https://natialollie.success-way.co/"><img src="https://github.com/natiaLollie/task-hub-360-lite/blob/main/docs/view-project-button.png?raw=true" width="200"></a>
 
 <br>
 <br>
