@@ -1,0 +1,6 @@
+#ignore assets
+
+workspace.code-workspace
+.DS_Store
+.vscode/
+/node_modules
