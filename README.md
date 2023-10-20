@@ -6,8 +6,8 @@ Task Hub 360 Lite is your perfect everyday solution for lite task management. De
 
 # What you'll find in this document 
 
-* [Overview](#overview)
 * [Acknowledgements](#acknowledgements)
+* [Overview](#overview)
 * [Features](#features)
 * [Demo](#demo)
 * [Technologies Used](#technologies-used)
@@ -19,17 +19,16 @@ Task Hub 360 Lite is your perfect everyday solution for lite task management. De
 
 <br>
 
-## Overview 
-_This task manager will:_
-<br>
-
-Allow you to simplify your task management journey, empowering you to take control of your to-do lists, stay organized, and achieve more in your personal, work, and enrichment endeavors. Start managing your tasks the smart way today with Task Hub 360 Lite.
-
-<br>
-
 ## Acknowledgements
 
-This project was developed with the guidance and support of [GDI](https://girldevelopit.com/) (Girl Develop It). The project base code and credits go to developer [Shalom Matthew](https://github.com/CodaBae), view original project [here](https://github.com/CodaBae/GDI-MERN-STACK-CLASS). 
+This project was developed with the guidance and support of [GDI (Girl Develop It)](https://girldevelopit.com/). The project base code and credits go to developer [Shalom Matthew](https://github.com/CodaBae), view original project [here](https://github.com/CodaBae/GDI-MERN-STACK-CLASS). 
+
+<br>
+
+## Overview 
+_This task manager will:_
+
+Simplify your task management journey, empowering you to take control of your to-do lists, stay organized, and achieve more in your personal, work, and enrichment endeavors. Start managing your tasks the smart way today with Task Hub 360 Lite.
 
 <br>
 
@@ -118,6 +117,6 @@ _Future plans, developments, features, and fixes._
 
 ## Contact Me 
 
-If you have any feedback, or would like to contact me concerning this project, please reach out to me via [contact](https://natialollie.success-way.co/#contact) form or linkedin:
+If you have any feedback, or would like to contact me concerning this project, please reach out to me via [contact form](https://natialollie.success-way.co/#contact) or linkedin:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natialollie/)
