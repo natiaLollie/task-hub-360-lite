@@ -1,0 +1,29 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "a todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/natiaLollie/task-hub-360-lite.git"
+  },
+  "keywords": [
+    "lifestyle",
+    "productivity",
+    "task",
+    "task",
+    "manager"
+  ],
+  "author": "Natia Lollie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natiaLollie/task-hub-360-lite/issues"
+  },
+  "homepage": "https://github.com/natiaLollie/task-hub-360-lite#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
