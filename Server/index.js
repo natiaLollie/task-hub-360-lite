@@ -1,6 +1,9 @@
-// import express module
+// import modules
 const express = require('express');
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 const app = express();
 console.log(app);
@@ -9,7 +12,7 @@ console.log(app);
 const port = 4000
 
 // define the MongoDB connection string
-const mongoDBAccess = 'mongodb+srv://admin:ix3RE6osrbWHEuXW@todoapp.74fbkfh.mongodb.net/';
+const mongoDBAccess = process.env.MONGODB_URI;
 
 // connect to the MongoDB database:
 mongoose.connect(mongoDBAccess, { useNewUrlParser: true }).then(() => {
