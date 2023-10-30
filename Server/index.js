@@ -20,7 +20,7 @@ mongoose.connect(mongoDBAccess, {
     console.log("Couldn't connect to MongoDB");
 })
 
-const Task = require('./model/task');
+const Task = require('./model/Task');
 
 // define route for root url
 app.get('/', (req, res) => {
@@ -32,7 +32,33 @@ app.listen(port, () => {
     console.log(`I am listening to port:${port}`);
 });
 
-// C R U D 
+// C R U D (dummy data)
 
-// HTTP Methods
-// Post (create), Get, Put, Patch, Delete
+/* 
+let schoolTask = new Task(
+    {
+        name: "book is read",
+        date: "30 Oct 2023",
+        isDone: false,
+    }
+)
+schoolTask.save();
+*/
+
+// Restful API | HTTP Methods: Post (create), Get, Put, Patch, Delete
+
+app.post('/task', async (req, res) => {
+    let schoolTask = new Task(
+        {
+            name: "book is read",
+            date: "30 Oct 2023",
+            isDone: false,
+        }
+    )
+    let data = await schoolTask.save();
+    res.send(data);
+})
+
+
+
+
