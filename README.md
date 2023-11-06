@@ -63,6 +63,8 @@ _Technologies I've worked with on this project, including programming languages,
     - Express.js
     - React
     - Node.js
+- Postman 
+	- [View Documentation](https://documenter.getpostman.com/view/30779924/2s9YXfcPk7) 
 - Git
 - Wireframe & Protype -> Figma 
 
